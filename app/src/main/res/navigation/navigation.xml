@@ -16,7 +16,6 @@
     <fragment
         android:id="@+id/gameFragment"
         android:name="com.example.android.navigation.GameFragment"
-        android:label="@string/game_over"
         tools:layout="@layout/fragment_game">
         <action
             android:id="@+id/action_gameFragment_to_gameWonFragment"
